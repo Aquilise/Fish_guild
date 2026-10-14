@@ -1,0 +1,66 @@
+Species,Guild,Prey,IRI
+A. maculatus,Crab_feeders,Crab,79.82
+A. maculatus,Crab_feeders,Shrimp,14.24
+A. maculatus,Crab_feeders,Clams,3.74
+A. maculatus,Crab_feeders,Fish,2.18
+A. maculatus,Crab_feeders,Detritus,0.02
+A. subrostratus,Crab_feeders,Crab,86.2
+A. subrostratus,Crab_feeders,Shrimp,5.81
+A. subrostratus,Crab_feeders,Fish,5.75
+A. subrostratus,Crab_feeders,Polychaete,0.31
+A. subrostratus,Crab_feeders,Clams,1.89
+A. subrostratus,Crab_feeders,Detritus,0.04
+M. gulio,Crab_feeders,Crab,46.01
+M. gulio,Crab_feeders,Shrimp,21.19
+M. gulio,Crab_feeders,Amphipods,28.18
+M. gulio,Crab_feeders,Fish,3.53
+M. gulio,Crab_feeders,Clams,0.89
+M. gulio,Crab_feeders,Fish_eggs,0.1
+M. gulio,Crab_feeders,Detritus,0.1
+A. djedaba,Piscivores,Fish,94.09
+A. djedaba,Piscivores,Shrimp,3.21
+A. djedaba,Piscivores,Copepods,2.7
+S. strongylura,Piscivores,Fish,97.06
+S. strongylura,Piscivores,Shrimp,2.94
+M. cordyla,Piscivores,Fish,68.31
+M. cordyla,Piscivores,Shrimp,31.69
+A. arius,Clam & shrimp_feeders,Shrimp,50.31
+A. arius,Clam & shrimp_feeders,Clams,42.48
+A. arius,Clam & shrimp_feeders,Crab,3.6
+A. arius,Clam & shrimp_feeders,Fish,1.04
+A. arius,Clam & shrimp_feeders,Algae,1.93
+A. arius,Clam & shrimp_feeders,Amphipods,0.64
+C. dussumieri,Clam & shrimp_feeders,Clams,55.02
+C. dussumieri,Clam & shrimp_feeders,Shrimp,18.78
+C. dussumieri,Clam & shrimp_feeders,Amphipods,24.76
+A. ambassis,Shrimp & fish_predators,Shrimp,46.84
+A. ambassis,Shrimp & fish_predators,Fish,48.61
+A. ambassis,Shrimp & fish_predators,Copepods,1.56
+A. ambassis,Shrimp & fish_predators,Fish_eggs,2.99
+C. sexfasciatus,Shrimp & fish_predators,Shrimp,81.03
+C. sexfasciatus,Shrimp & fish_predators,Fish,18.72
+C. sexfasciatus,Shrimp & fish_predators,Isopods,0.25
+D. albida,Shrimp & fish_predators,Shrimp,43.46
+D. albida,Shrimp & fish_predators,Isopods,19.96
+D. albida,Shrimp & fish_predators,Amphipods,14.97
+D. albida,Shrimp & fish_predators,Fish,13.91
+D. albida,Shrimp & fish_predators,Crab,7.28
+D. albida,Shrimp & fish_predators,Copepods,0.42
+E. tetradactylum,Shrimp & fish_predators,Shrimp,50.93
+E. tetradactylum,Shrimp & fish_predators,Amphipods,23.9
+E. tetradactylum,Shrimp & fish_predators,Fish,15.62
+E. tetradactylum,Shrimp & fish_predators,Crab,9.55
+L. argentimaculatus,Shrimp & fish_predators,Shrimp,41.73
+L. argentimaculatus,Shrimp & fish_predators,Fish,47.06
+L. argentimaculatus,Shrimp & fish_predators,Crab,11.21
+M. cyprinoides,Shrimp & fish_predators,Shrimp,53.09
+M. cyprinoides,Shrimp & fish_predators,Fish,46.91
+P. indicus,Shrimp & fish_predators,Shrimp,68.81
+P. indicus,Shrimp & fish_predators,Fish,16.96
+P. indicus,Shrimp & fish_predators,Amphipods,13.6
+P. indicus,Shrimp & fish_predators,Crab,0.63
+T. jarbua,Shrimp & fish_predators,Shrimp,60.73
+T. jarbua,Shrimp & fish_predators,Fish,39.27
+T. mystax,Shrimp & fish_predators,Shrimp,73.23
+T. mystax,Shrimp & fish_predators,Copepods,23.79
+T. mystax,Shrimp & fish_predators,Fish,2.98
